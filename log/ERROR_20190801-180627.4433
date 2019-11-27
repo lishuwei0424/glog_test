@@ -1,0 +1,9 @@
+Log file created at: 2019/08/01 18:06:27
+Running on machine: vslam
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0801 18:06:27.413451  4433 main.cpp:70] 每隔3次输出一次 0
+E0801 18:06:27.413511  4433 main.cpp:71] 前两次输出 0
+E0801 18:06:27.413543  4433 main.cpp:71] 前两次输出 1
+E0801 18:06:27.413570  4433 main.cpp:70] 每隔3次输出一次 3
+E0801 18:06:27.413601  4433 main.cpp:70] 每隔3次输出一次 6
+E0801 18:06:27.413641  4433 main.cpp:70] 每隔3次输出一次 9
